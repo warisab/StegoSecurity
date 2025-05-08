@@ -1,0 +1,6 @@
+{
+    "max_file_size": 1024,
+    "default_stego_method": "spaces_tabs",
+    "dev_mode": true,
+    "entropy_threshold": 0.9
+}
